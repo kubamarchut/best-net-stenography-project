@@ -12,5 +12,5 @@ def read_packets_from_file(filename):
 
 
 if __name__ == "__main__":
-    filename = "pcaps/traffic.pcapng"
+    filename = "pcaps/pub/apt-install-python.pcap"
     read_packets_from_file(filename)
